@@ -1,0 +1,73 @@
+*{
+ margin:0;  
+ padding:o; 
+}
+body{
+background-color: black;
+}
+#imgApp{
+height: 150px;
+width: 150px;
+}
+#imgMot{   
+height: 210px;
+width: 210px;
+}
+#imgHua{
+height: 170px;
+width: 170px;
+}
+#divMoto{
+height: 170px;
+width: 150px;
+}
+#divReparacion{
+height: 170px;
+width: 150px;
+}
+#divPaquete{
+height: 170px;
+width: 150px;
+}
+.iconoWhuas{
+position:fixed;
+bottom: 20px;
+right: 20px;
+width: 5%;
+}
+#nav{
+background-color: black;
+height: auto;
+}   
+#color li a{
+color:#8DC146 ;
+}    
+#tec{
+color:#8DC146 ;
+}  
+#foot{
+color: #8DC146;
+}    
+footer{
+background-color: black;
+}   
+#imgTarjetas{
+height:35px;
+}
+.navbar-toggler{
+background-color: #8DC146;
+}
+button{
+border-radius: 30px;
+background-color: black;
+}
+#boton{
+color: #8DC146;
+}
+main{
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,157,233,1) 100%);   
+}
+#aside{
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,157,233,1) 100%);
+}
+  
